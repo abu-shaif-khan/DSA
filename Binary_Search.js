@@ -1,5 +1,5 @@
-/* Binarry Search */
-
+/* Binary Search */
+/* Complexity T O(log(n)) S O(1)*/ 
 let arr2 = [1, 5, 7,9, 11, 13, 15, 25, 50 ,79];
 
 function binarySearch(arr2, target){
